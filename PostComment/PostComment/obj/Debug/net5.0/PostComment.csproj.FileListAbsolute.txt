@@ -1,0 +1,16 @@
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.exe
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.deps.json
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.runtimeconfig.json
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.runtimeconfig.dev.json
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.dll
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\ref\PostComment.dll
+D:\C#\PostComment\PostComment\PostComment\bin\Debug\net5.0\PostComment.pdb
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.csproj.AssemblyReference.cache
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.AssemblyInfoInputs.cache
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.AssemblyInfo.cs
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.csproj.CoreCompileInputs.cache
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.dll
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\ref\PostComment.dll
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.pdb
+D:\C#\PostComment\PostComment\PostComment\obj\Debug\net5.0\PostComment.genruntimeconfig.cache
